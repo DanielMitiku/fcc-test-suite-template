@@ -1,3 +1,7 @@
+#b {
+background-color: #00ccff;
+}
+
 #main-doc {
 	margin-left: 80px;
 	font-size: 20px;
@@ -7,9 +11,15 @@
 	position: fixed;
 }
 .main-section {
-	margin-left: 500px;
+	margin-left: 400px;
+	background-color: #66ff66;
+	margin=left: 20px;
+	padding: 15px;
 }
 
+#main-section {
+background-color: #00ccff;
+}
 @media only screen and (max-width: 600px) {
 .main-section {
 
