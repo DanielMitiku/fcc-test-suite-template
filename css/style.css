@@ -2,3 +2,10 @@
 	margin-left: 80px;
 	font-size: 20px;
 }
+#navbar {
+	float: left;
+	position: fixed;
+}
+.main-section {
+	margin-left: 500px;
+}
